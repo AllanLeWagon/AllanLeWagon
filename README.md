@@ -4,8 +4,7 @@ A junior fullstack developer from France, I just finished my bootcamp @Le Wagon 
 
 📫 How to reach me allanelsensohn@gmail.com
 
-Connect with me:
-allan-elsensohn-dev
-
 Languages and Tools:
-bootstrap css3 heroku html5 javascript postgresql ruby
+- bootstrap css3 heroku html5 javascript postgresql ruby sqlite 
+- react typescript next.js firebase
+- solidity web3Librairies
